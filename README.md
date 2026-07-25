@@ -1,169 +1,96 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Banner"/>
+<!-- BANNER: replace src with your uploaded banner's filename -->
+<img src="./banner.png" width="100%" alt="banner"/>
 
-# Hello World. 👋
+<br/><br/>
 
-## I'm **Charu Jain**
+### Hi there! I'm Charu Jain 👋✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1200&color=D946EF&center=true&vCenter=true&width=700&lines=Java+Developer;Building+Ideas+into+Reality;Problem+Solver;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=I+build+things+for+the+web...;Java+Developer+%E2%80%A2+DSA+Enthusiast;Turning+ideas+into+reality." alt="Typing SVG" />
 
-<br>
+<br/>
 
-<a href="https://github.com/Charuu-jain">
-<img src="https://img.shields.io/badge/GitHub-171126?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-D946EF?style=for-the-badge"/>
-</a>
+<a href="https://github.com/Charuu-jain"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/charu-jain-10b36b277"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:charujain290605@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
+## 💜 About Me
 
-<td width="50%" valign="top">
+- 🎓 B.Tech Computer Science student, LNCT University Bhopal (2027 batch)
+- ☕ Learning Java, DSA, and Spring Boot for placement prep
+- 🌐 Building full-stack web applications
+- 🤖 Exploring Machine Learning & AI integrations (Gemini API)
+- 🎨 Also a bit of a graphic/aesthetic designer on the side
+- 🚀 Open source enthusiast, always open to collaborate
 
-## 👩‍💻 About Me
+<br/>
 
-- 🎓 B.Tech Student
-- ☕ Java Developer
-- 🌐 Web Development
-- 💡 Problem Solver
-- 🚀 Learning Spring Boot
-- ❤️ Building projects
+## 🛠️ Tech Stack
 
-</td>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,spring,mysql,git,github,vscode,react,tailwind,nodejs&theme=dark" />
+</div>
 
-<td width="50%" valign="top">
+<br/>
 
-## ⚡ Currently
+## 📊 GitHub Stats
 
-- 🔥 Java + DSA
-- 🌸 Building EduVault
-- 🚁 Working on RESQFLY
-- 📖 Learning Backend Development
-- ✨ Open Source Journey
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Charuu-jain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charuu-jain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" height="165"/>
+</div>
 
-</td>
+<br/>
 
-</tr>
-</table>
+## 🔥 GitHub Streak
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charuu-jain&theme=radical&hide_border=true&background=0D1117&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" />
+</div>
 
-# 💻 Tech Stack
+<br/>
 
-<p align="center">
+## 📈 Contribution Graph
 
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,mysql,git,github,vscode,eclipse"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charuu-jain&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=C77DFF&point=E0AAFF" width="100%"/>
+</div>
 
-</p>
+<br/>
 
----
+## 🚀 Featured Projects
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Charuu-jain&show_icons=true&hide_border=true&bg_color=00000000&title_color=D946EF&text_color=FFFFFF&icon_color=A855F7"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charuu-jain&layout=compact&hide_border=true&bg_color=00000000&title_color=D946EF&text_color=FFFFFF"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Charuu-jain&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Charuu-jain/Charuu-jain/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charuu-jain&theme=tokyo-night&bg_color=0D081F&hide_border=true"/>
-
-</p>
-
----
-
-# ⭐ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Charuu-jain/EduVault-Web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=EduVault-Web&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Charuu-jain/kawaiii-photobooth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=kawaiii-photobooth&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Charuu-jain/my-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=my-portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
+<div align="center">
 
 <a href="https://github.com/Charuu-jain/cognitiveload">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=cognitiveloadtheme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=cognitiveload&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
 </a>
-</p>
-
----
-
-# 🎵 Currently Playing
-
-<div align="center">
-
-```text
-♪ Night Changes
-One Direction
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<a href="https://github.com/Charuu-jain/EduVault-Web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=EduVault-Web&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+</a>
+<br/>
+<a href="https://github.com/Charuu-jain/kawaiii-photobooth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=kawaiii-photobooth&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+</a>
+<a href="https://github.com/Charuu-jain/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-> **"Build. Break. Learn. Repeat."**
+> "Code is like humor. When you have to explain it, it's bad." — Cory House 💜
 
 </div>
 
----
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Charuu-jain&style=for-the-badge&color=blueviolet"/>
-
+✨ Thanks for visiting! ✨
 </div>
