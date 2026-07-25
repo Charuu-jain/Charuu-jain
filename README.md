@@ -67,15 +67,15 @@
 
 <div align="center">
 
+<a href="https://github.com/Charuu-jain/kawaiii-photobooth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=kawaiii-photobooth&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+</a>
 <a href="https://github.com/Charuu-jain/cognitiveload">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=cognitiveload&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
 </a>
+<br/>
 <a href="https://github.com/Charuu-jain/EduVault-Web">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=EduVault-Web&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
-</a>
-<br/>
-<a href="https://github.com/Charuu-jain/kawaiii-photobooth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=kawaiii-photobooth&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
 </a>
 <a href="https://github.com/Charuu-jain/my-portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
