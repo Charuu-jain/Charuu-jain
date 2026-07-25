@@ -68,17 +68,17 @@
 <div align="center">
 
 <a href="https://github.com/Charuu-jain/kawaiii-photobooth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=kawaiii-photobooth&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Charuu-jain&repo=kawaiii-photobooth&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=9D4EDD" />
 </a>
 <a href="https://github.com/Charuu-jain/cognitiveload">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=cognitiveload&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Charuu-jain&repo=cognitiveload&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=9D4EDD" />
 </a>
 <br/>
 <a href="https://github.com/Charuu-jain/EduVault-Web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=EduVault-Web&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Charuu-jain&repo=EduVault-Web&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=9D4EDD" />
 </a>
 <a href="https://github.com/Charuu-jain/my-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Charuu-jain&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Charuu-jain&repo=my-portfolio&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=9D4EDD" />
 </a>
 
 </div>
