@@ -41,11 +41,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Charuu-jain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charuu-jain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Charuu-jain&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=9D4EDD" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Charuu-jain&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=9D4EDD" height="165"/>
 </div>
-
-<br/>
 
 ## 🔥 GitHub Streak
 
