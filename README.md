@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+<img src="banner.jpg.jpeg" width="100%">
+</p>
 <!--
 **Charuu-jain/Charuu-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
